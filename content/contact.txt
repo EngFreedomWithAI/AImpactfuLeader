@@ -1,0 +1,8 @@
+
+<h1>Feel free to reach out directly</h1>
+<h2>Email: <a href="mailto:aimpactfuleader@gmail.com" class="contact-link">AImpactfuLeader@gmail.com</a></h2>
+<h2>DM: <a href="https://x.com/AImpactfuLeader" target="_blank" class="contact-link">@AImpactfuLeader</a></h2>
+
+
+<p>Or just 
+<a href="booksession.html" class="btn btn-primary">Book A Session!</a></p>

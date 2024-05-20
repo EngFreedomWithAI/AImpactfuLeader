@@ -1,0 +1,24 @@
+<div class="content-container">
+    <h1>Become Your Own Coach</h1>
+    <h2>Unlock Your Unique Potential</h2>
+
+    <p>Understanding <strong>yourself</strong> is the first step toward achieving greatness. </p>
+    <p>If you want to further harness your strengths and create a life of abundance and impact more quickly,</p>
+    <a href="booksession.html" class="btn btn-primary">Let's Talk!</a>
+    <h3>A belief in your unique potential. </h3>
+    <ul class="styled-list">
+        <li><strong>Cultivate a Winning Mindset:</strong> Navigate and leverage your mental landscapes to your advantage.</li>
+        <li><strong>Unleash Your Distinct Strengths:</strong> Deploy your innate talents in ways that multiply your effectiveness.</li>
+        <li><strong>Foster Self-Sufficiency:</strong> Become self-reliant and your own best coach, <strong>making me obsolete.</strong></li>
+    </ul>
+
+   <h3><strong>North-Star Metric: Your Success</strong></h3>
+    <p>With successful tech industry experience in building products and teams, and relentlessly pursuing self-growth, <strong>my coaching transcends convention.</strong></p>
+    <ul class="styled-list">
+        <li><strong>Quick Impact:</strong> Achieve significant results in minimal time. Ideally, just <strong>one</strong> session.</li>
+        <li><strong>Empowering Your Independence:</strong> Gain skills to coach yourself and boldly direct your future.</li>
+        <li><strong>Authentic Growth:</strong> Break free from conventional molds and embrace your unique path.</li>
+    </ul>
+    <p>Whether you’re at the inception of your journey or poised to scale new heights, I'm here to <strong>accelerate YOU.</strong></p>
+    <a href="booksession.html" class="btn btn-primary">Book A Session</a>
+</div>

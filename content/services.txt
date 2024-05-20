@@ -1,0 +1,29 @@
+<div class="content-container">
+    <h1>Unlocking Unique Potential</h1>
+    <h2>No Playbook. No Prescriptions.</h2>
+
+
+    <h3>Individual Coaching</h3>
+
+
+    <p>For anyone who feels stuck or need a push to start or double down on their journey, I will coach you to:</p>
+    <ul class="styled-list">
+        <li>Master your mindset</li>
+        <li>Discover and harness your unique strengths</li>
+        <li>Make bold decisions, easily navigate complex challenges and build a life of abundance</li>
+    </ul>
+    
+    <a href="booksession.html" class="btn btn-primary">Let's Talk!</a>
+
+    <h3>Team Coaching</h3>
+
+    <p>Empower your team to achieve greatness. I will coach the team to:</p>
+    <ul class="styled-list">
+        <li>Master the mindset</li>
+        <li>Truly become an autonomous 'Team'</li>
+        <li>Develop authentic leadership styles</li>
+        <li>Become the very definition of success, growth and excellence</li>
+    </ul>
+
+    <a href="booksession.html" class="btn btn-primary">Book A Session</a>
+</div>
