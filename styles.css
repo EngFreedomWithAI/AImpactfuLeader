@@ -73,7 +73,7 @@ body.default-bg {
 
 .navbar-nav {
     display: flex;
-    gap: 50px;
+    gap: 30px;
 }
 
 .navbar-nav a {
