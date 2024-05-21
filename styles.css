@@ -14,6 +14,7 @@ body {
     background-size: cover;
     background-position: center;
 }
+
 /* Default background style */
 body.default-bg {
     background-image: url('images/AltServices.svg'); /* Replace with your default background image */
@@ -69,7 +70,6 @@ body.default-bg {
     margin-right: 0;  /* Adds some space between the logo and the text */
     height: 100px;  /* Sets the logo size */
 }
-
 
 .navbar-nav {
     display: flex;
@@ -211,7 +211,6 @@ body.default-bg {
 }
 
 .calendly-container {
-    width:100%;
     max-width: 1000px;
     margin: auto;
     background-color: transparent;
@@ -238,11 +237,6 @@ body.default-bg {
         padding: 60px 15px;
         max-width: 500px;
     }
-    .calendly-container {
-        padding: 60px 15px;
-        max-width: 400px;
-    }
-
     .full-screen-content h1 {
         font-size: 20px;
     }
@@ -253,5 +247,16 @@ body.default-bg {
 
     .btn {
         font-size: 16px;
+    }
+
+    /* Adjusting the Calendly container for mobile devices */
+    .calendly-container {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+
+    .calendly-inline-widget {
+        min-width: 100% !important;
+        height: 500px !important;  /* Adjust height as needed */
     }
 }
