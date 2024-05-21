@@ -114,7 +114,7 @@ body.default-bg {
     margin-bottom: 20px;
 }
 .full-screen-content p, .full-screen-content ul {
-    font-size: 22px;
+    font-size: 24px;
     margin-bottom: 20px;
 }
 
@@ -211,8 +211,8 @@ body.default-bg {
 }
 
 .calendly-container {
-    width: 100%;
-    max-width: 800px;
+    width:100%;
+    max-width: 500px;
     margin: auto;
     background-color: white;
     border-radius: 10px;
@@ -240,7 +240,7 @@ body.default-bg {
     }
 
     .full-screen-content h1 {
-        font-size: 28px;
+        font-size: 20px;
     }
 
     .full-screen-content p {
