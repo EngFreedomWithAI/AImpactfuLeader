@@ -1,8 +1,7 @@
 <div class="content-container">
     <h1>Become Your Own Coach</h1>
     <h2>Unlock Your Unique Potential</h2>
-
-    <h3>Believe in your unique potential. </h3>
+    
     <ul class="styled-list">
         <li><strong>Cultivate a Winning Mindset:</strong> Navigate and leverage your mental landscapes to your advantage.</li>
         <li><strong>Unleash Your Distinct Strengths:</strong> Deploy your innate talents in ways that multiply your effectiveness.</li>
