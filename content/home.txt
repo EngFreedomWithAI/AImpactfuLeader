@@ -3,8 +3,6 @@
     <h2>Unlock Your Unique Potential</h2>
 
     <p>Understanding <strong>yourself</strong> is the first step toward achieving greatness. </p>
-    <p>If you want to further harness your strengths and create a life of abundance and impact more quickly,</p>
-    <a href="booksession.html" class="btn btn-primary">Let's Talk!</a>
     <h3>A belief in your unique potential. </h3>
     <ul class="styled-list">
         <li><strong>Cultivate a Winning Mindset:</strong> Navigate and leverage your mental landscapes to your advantage.</li>
