@@ -247,6 +247,7 @@ h3 a:last-child {
     /* Navigation adjustments */
     .navbar-brand {
         font-size: 16px;
+        margin-right: 20px; /* Add space between the logo and the first nav link */
     }
     
     .navbar-nav {
@@ -258,7 +259,7 @@ h3 a:last-child {
     .navbar-nav a {
         font-size: 14px;
         padding: 10px 5px;
-        margin: 0;
+        margin: 0 5px; /* Add margin between the nav links */
     }
     
     /* Content adjustments */
