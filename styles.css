@@ -167,14 +167,14 @@ body.default-bg {
 }
 
 .social-links a img, .social-links a .fa-envelope {
-    width: 40px; /* Adjust the size as needed */
+    width: 30px; /* Adjust the size as needed */
     height: auto;
     margin-right: 10px; /* Adjust spacing between icons */
     vertical-align: middle; /* Ensure icons are aligned */
 }
 
 .social-links a .fa-envelope {
-    font-size: 40px; /* Ensure the font-awesome icon matches the size of the images */
+    font-size: 30px; /* Ensure the font-awesome icon matches the size of the images */
     color: #3ABFEF; /* Change this to your desired color */
 }
 
