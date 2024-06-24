@@ -166,6 +166,26 @@ body.default-bg {
     opacity: 0.8;
 }
 
+.social-links a img, .social-links a .fa-envelope {
+    width: 40px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 10px; /* Adjust spacing between icons */
+    vertical-align: middle; /* Ensure icons are aligned */
+}
+
+.social-links a .fa-envelope {
+    font-size: 40px; /* Ensure the font-awesome icon matches the size of the images */
+    color: #3ABFEF; /* Change this to your desired color */
+}
+
+h3 a {
+    margin-right: 10px; /* Adjust the value as needed for spacing */
+}
+
+h3 a:last-child {
+    margin-right: 0; /* No margin for the last link */
+}
+
 .video-embed {
     width: 50%;  /* Adjust width as necessary, possibly with max-width */
     height: auto;  /* Adjust height based on the aspect ratio of the video */

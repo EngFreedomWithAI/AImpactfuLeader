@@ -1,28 +1,35 @@
 <div class="content-container">
     <h1>Become Your Own Coach</h1>
-    <h2>Become One With Success</h2>
+    <h2>Empowering Bold Leaders in the AI era</h2>
     
     <ul class="styled-list">
         <li>Cultivate a <strong>Winning Mindset</strong></li>
-        <li>Maximize your <strong>Unique Strengths</strong></li>
-        <li>Master <strong>Self-Coaching</strong></li>
+        <li>Amplify your <strong>Unique Strengths for Success</strong></li>
+        <li>Master <strong>Self-Coaching & Authentic Leadership</strong></li>
         <li>Leverage AI to <strong>Accelerate Growth</strong></li>
     </ul>
 
-   <h3><strong>Your Success, My Mission</strong></h3>
-    <p>Tech Executive -> Coach and Entrepreneur</p>
+   <h3><strong>From My Startup Success to Your Acceleration</strong></h3>
 
     <h3>My Radical Approach</h3>
     <ul class="styled-list">
     <li><strong>Aim</strong>: Make myself obsolete</li>
     <li><strong>Focus</strong>: Rapid, transformative results</li>
+    <li><strong>Impact</strong>: Drive your North star metric growth</li>
     <li><strong>Method</strong>: Unique for you</li>
     </ul>
     <p>From startup to scale-up, I'm here to <strong>accelerate YOUR journey.</strong></p>
     <a href="booksession.html" class="btn btn-primary">Book Your Free Session</a>
 
 
-<h3>Get in Touch</h3>
-<p>Email: <a href="mailto:aimpactfuleader@gmail.com">aimpactfuleader@gmail.com</a></p>
-<p>For quickest response, DM me on <a href="https://x.com/AImpactfuLeader" target="_blank">X</a> or <a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">LinkedIn</a></p>
+<div class="social-links"> 
+<h3>Get in Touch 
+<a href="https://x.com/AImpactfuLeader" target="_blank">
+        <img src="images/x-logo/logo.svg" alt="X Logo">
+<a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">
+        <img src="images/In-White-21.png" alt="LinkedIn Logo"> </a>
+
+<a href="mailto:aimpactfuleader@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+
+</h3>
 </div>

@@ -1,5 +1,5 @@
 <h1>Sonia Sarao</h1>
-<div class="social-links">  
+<div class="social-links">
     <a href="https://x.com/AImpactfuLeader" target="_blank">
         <img src="images/x-logo/logo.svg" alt="X Logo">
     </a>
@@ -10,33 +10,34 @@
 
 <h2>Tech Executive -> Coach and Entrepreneur</h2>
 
-<h3>Empowering bold leaders in the AI era</h3>
-
 <h3>My Journey</h3>
 <ul class="styled-list">
-<li>Led high-performing teams across industries</li>
-<li>Guided startups through complex challenges</li>
+<li>Built high-performing teams across industries</li>
+<li>Led startups to 5x growth and successful acquisitions</li>
 <li>Embraced AI as the ultimate growth accelerator</li>
 </ul>
 
 <h3>Why I Love Coaching</h3>
 <ul class="styled-list">
-<li>Unlocking unique superpowers energizes me</li>
-<li>Witnessing bold, authentic leadership inspires me</li>
-<li>Empowering others to self-coach fulfills me</li>
+<li>Unlocking <strong>unique superpowers</strong> energizes me</li>
+<li>Witnessing <strong>bold, authentic leadership</strong> inspires me</li>
+<li>Empowering others to <strong>self-coach</strong> fulfills me</li>
+<li>Building <strong>high-performing executive teams</strong> supercharges me</li>
 </ul>
 
-<h3>My Radical Approach</h3>
-<ul class="styled-list">
-<li><strong>Aim</strong>: Make myself obsolete</li>
-<li><strong>Focus</strong>: Rapid, transformative results</li>
-<li><strong>Method</strong>: Unique for you</li>
-</ul>
 
-<p>Ready to accelerate your journey? Let's unlock your potential together.</p>
+<p>Ready to accelerate your journey?</p>
 
 <a href="booksession.html" class="btn btn-primary">Book Your Free Session</a>
 
-<h3>Get in Touch</h3>
-<p>Email: <a href="mailto:aimpactfuleader@gmail.com">aimpactfuleader@gmail.com</a></p>
-<p>For quickest response, DM me on <a href="https://x.com/AImpactfuLeader" target="_blank">X</a> or <a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">LinkedIn</a></p>
+<div class="social-links"> 
+<h3>Get in Touch 
+<a href="https://x.com/AImpactfuLeader" target="_blank">
+        <img src="images/x-logo/logo.svg" alt="X Logo">
+<a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">
+        <img src="images/In-White-21.png" alt="LinkedIn Logo"> </a>
+
+<a href="mailto:aimpactfuleader@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+
+</h3>
+</div>
