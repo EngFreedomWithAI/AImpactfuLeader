@@ -3,10 +3,10 @@
     <h2>Unlock Your Potential Now</h2>
     
     <ul class="styled-list">
-        <li><strong>Cultivate a Winning Mindset</strong></li>
-        <li><strong>Maximize your Unique Strengths</strong></li>
-        <li><strong>Master Self-Coaching</strong></li>
-        <li><strong>Leverage AI to Accelerate Growth</strong></li>
+        <li>Cultivate a <strong>Winning Mindset</strong></li>
+        <li>Maximize your <strong>Unique Strengths</strong></li>
+        <li>Master <strong>Self-Coaching</strong></li>
+        <li>Leverage AI to <strong>Accelerate Growth</strong></li>
     </ul>
 
    <h3><strong>Your Success, My Mission</strong></h3>

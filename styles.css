@@ -224,39 +224,93 @@ body.default-bg {
 
 /* Responsive Adjustments */
 @media screen and (max-width: 768px) {
+    /* Navigation adjustments */
     .navbar-brand {
-        font-size: 18px;
-    }
-
-    .navbar-nav a {
         font-size: 16px;
-        margin: 0 5px;
     }
-
+    
+    .navbar-nav {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+    
+    .navbar-nav a {
+        font-size: 14px;
+        padding: 10px 5px;
+        margin: 0;
+    }
+    
+    /* Content adjustments */
     .full-screen-content {
-        padding: 60px 15px;
-        max-width: 500px;
+        padding: 20px 10px;
+        max-width: 100%;
+        margin: 0;
     }
+    
     .full-screen-content h1 {
-        font-size: 20px;
+        font-size: 24px;
+        margin-bottom: 15px;
     }
-
+    
+    .full-screen-content h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .full-screen-content h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    
     .full-screen-content p {
         font-size: 16px;
+        line-height: 1.4;
+        margin-bottom: 15px;
     }
-
+    
+    .styled-list {
+        padding-left: 20px;
+    }
+    
+    .styled-list li {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    
+    /* Button adjustments */
     .btn {
         font-size: 16px;
+        padding: 12px 20px;
+        width: 100%;
+        max-width: 250px;
+        margin: 10px auto;
+        display: block;
     }
-
-    /* Adjusting the Calendly container for mobile devices */
+    
+    /* Calendly adjustments */
     .calendly-container {
         max-width: 100%;
-        padding: 0 10px;
+        padding: 0;
     }
-
+    
     .calendly-inline-widget {
         min-width: 100% !important;
-        height: 500px !important;  /* Adjust height as needed */
+        height: 600px !important;
+    }
+}
+
+/* Additional styles for very small screens */
+@media screen and (max-width: 320px) {
+    .full-screen-content h1 {
+        font-size: 22px;
+    }
+    
+    .full-screen-content h2 {
+        font-size: 18px;
+    }
+    
+    .full-screen-content p, .styled-list li {
+        font-size: 14px;
     }
 }

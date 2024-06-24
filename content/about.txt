@@ -21,7 +21,7 @@
 
 <h3>Why I Love Coaching</h3>
 <ul class="styled-list">
-<li>Unlocking unique superpowers <strong>energizes</strong> me</li>
+<li>Unlocking unique superpowers energizes me</li>
 <li>Witnessing bold, authentic leadership inspires me</li>
 <li>Empowering others to self-coach fulfills me</li>
 </ul>
