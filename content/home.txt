@@ -1,6 +1,6 @@
 <div class="content-container">
     <h1>Become Your Own Coach</h1>
-    <h2>Unlock Your Potential Now</h2>
+    <h2>Become One With Success</h2>
     
     <ul class="styled-list">
         <li>Cultivate a <strong>Winning Mindset</strong></li>
