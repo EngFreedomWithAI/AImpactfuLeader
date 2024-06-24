@@ -10,7 +10,7 @@
 
 <h2>Tech Executive -> Coach and Entrepreneur</h2>
 
-<h3>Empowering bold leaders in the AI era.</h3>
+<h3>Empowering bold leaders in the AI era</h3>
 
 <h3>My Journey</h3>
 <ul class="styled-list">
