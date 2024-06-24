@@ -1,20 +1,28 @@
 <div class="content-container">
     <h1>Become Your Own Coach</h1>
-    <h2>Unlock Your Unique Potential</h2>
+    <h2>Unlock Your Potential Now</h2>
     
     <ul class="styled-list">
-        <li><strong>Cultivate a Winning Mindset:</strong> Navigate and leverage your mental landscapes to your advantage.</li>
-        <li><strong>Unleash Your Distinct Strengths:</strong> Deploy your innate talents in ways that multiply your effectiveness.</li>
-        <li><strong>Foster Self-Sufficiency:</strong> Become self-reliant and your own best coach, <strong>making me obsolete.</strong></li>
+        <li><strong>Cultivate a Winning Mindset</strong></li>
+        <li><strong>Maximize your Unique Strengths</strong></li>
+        <li><strong>Master Self-Coaching</strong></li>
+        <li><strong>Leverage AI to Accelerate Growth</strong></li>
     </ul>
 
-   <h3><strong>North-Star Metric: Your Success</strong></h3>
-    <p>With successful tech industry experience in building products and teams, and relentlessly pursuing self-growth, <strong>my coaching transcends convention.</strong></p>
+   <h3><strong>Your Success, My Mission</strong></h3>
+    <p>Tech Executive -> Coach and Entrepreneur</p>
+
+    <h3>My Radical Approach</h3>
     <ul class="styled-list">
-        <li><strong>Quick Impact:</strong> Achieve significant results in minimal time. Ideally, just <strong>one</strong> session.</li>
-        <li><strong>Empowering Your Independence:</strong> Gain skills to coach yourself and boldly direct your future.</li>
-        <li><strong>Authentic Growth:</strong> Break free from conventional molds and embrace your unique path.</li>
+    <li><strong>Aim</strong>: Make myself obsolete</li>
+    <li><strong>Focus</strong>: Rapid, transformative results</li>
+    <li><strong>Method</strong>: Unique for you</li>
     </ul>
-    <p>Whether you’re at the inception of your journey or poised to scale new heights, I'm here to <strong>accelerate YOU.</strong></p>
-    <a href="booksession.html" class="btn btn-primary">Book A Session</a>
+    <p>From startup to scale-up, I'm here to <strong>accelerate YOUR journey.</strong></p>
+    <a href="booksession.html" class="btn btn-primary">Book Your Free Session</a>
+
+
+<h3>Get in Touch</h3>
+<p>Email: <a href="mailto:aimpactfuleader@gmail.com">aimpactfuleader@gmail.com</a></p>
+<p>For quickest response, DM me on <a href="https://x.com/AImpactfuLeader" target="_blank">X</a> or <a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">LinkedIn</a></p>
 </div>

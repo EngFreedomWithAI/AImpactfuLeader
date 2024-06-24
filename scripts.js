@@ -20,14 +20,6 @@ document.addEventListener('DOMContentLoaded', function() {
           document.body.className = 'about-bg';
           contentFile = 'content/about.txt';
           break;
-      case 'services':
-          document.body.className = 'services-bg';
-          contentFile = 'content/services.txt';
-          break;
-      case 'contact':
-          document.body.className = 'contact-bg';
-          contentFile = 'content/contact.txt';
-          break;
       case 'booksession':
           document.body.className = 'booksession-bg';
           contentFile = 'content/booking.txt';

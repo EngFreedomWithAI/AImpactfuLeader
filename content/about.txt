@@ -1,20 +1,42 @@
 <h1>Sonia Sarao</h1>
-        <div class="social-links">  
-            <a href="https://x.com/AImpactfuLeader" target="_blank">
-                <img src="images/x-logo/logo.svg" alt="X Logo">
-            </a>
-            <a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">
-                <img src="images/In-White-21.png" alt="LinkedIn Logo">
-            </a>
-        </div>
-<p>Who I am on paper is not important. Same goes for you - Focus on what <strong>you</strong> truly think of you!</p>
-<p>Ultimately, it's about our relationship with our<strong>selves</strong> and our journey. </p>
-<p>I have built innovative products and high-performing teams in different industries. I have helped startups grow through some complex challenges and went through successful acquisitions. But my "true wins" are the bets I placed on people - nurturing their growth to yield transformative results.</p>
-<p>And I started with myself:</p>
+<div class="social-links">  
+    <a href="https://x.com/AImpactfuLeader" target="_blank">
+        <img src="images/x-logo/logo.svg" alt="X Logo">
+    </a>
+    <a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">
+        <img src="images/In-White-21.png" alt="LinkedIn Logo">
+    </a>
+</div>
+
+<h2>Tech Executive -> Coach and Entrepreneur</h2>
+
+<p>Empowering bold leaders in the AI era.</p>
+
+<h3>My Journey</h3>
 <ul class="styled-list">
-<li>Abundant opportunities came my way when I fully adopted the growth mindset. </li>
-<li>A Techno-optimist at heart - AI is the ultimate accelerating force, and I leverage it at every step.</li>
-<li>Love coaching and that's the only reason I do it.</li>
+<li>Led high-performing teams across industries</li>
+<li>Guided startups through complex challenges</li>
+<li>Embraced AI as the ultimate growth accelerator</li>
 </ul>
-<p>If our paths cross, it would be an honor to witness you unlock your unique potential, and <strong>accelerate YOU.</strong></p>
-<a href="booksession.html" class="btn btn-primary">Let's Talk!</a>
+
+<h3>Why I Love Coaching</h3>
+<ul class="styled-list">
+<li>Unlocking unique superpowers <strong>energizes</strong> me</li>
+<li>Witnessing bold, authentic leadership inspires me</li>
+<li>Empowering others to self-coach fulfills me</li>
+</ul>
+
+<h3>My Radical Approach</h3>
+<ul class="styled-list">
+<li><strong>Aim</strong>: Make myself obsolete</li>
+<li><strong>Focus</strong>: Rapid, transformative results</li>
+<li><strong>Method</strong>: Unique for you</li>
+</ul>
+
+<p>Ready to accelerate your journey? Let's unlock your potential together.</p>
+
+<a href="booksession.html" class="btn btn-primary">Book Your Free Session</a>
+
+<h3>Get in Touch</h3>
+<p>Email: <a href="mailto:aimpactfuleader@gmail.com">aimpactfuleader@gmail.com</a></p>
+<p>For quickest response, DM me on <a href="https://x.com/AImpactfuLeader" target="_blank">X</a> or <a href="https://www.linkedin.com/in/sonia-sarao/" target="_blank">LinkedIn</a></p>
