@@ -41,7 +41,7 @@ body.default-bg {
 
 /* Navbar Styles */
 .navbar {
-    position: sticky;
+    position: static;
     top: 0;
     background-color: transparent;
     z-index: 1000;
