@@ -25,6 +25,9 @@
 <li>Building <strong>high-performing executive teams</strong> supercharges me</li>
 </ul>
 
+<div class="provocations-list">
+    <a href="https://x.com/AImpactfuLeader/status/1765411502625050739">My superpower is to elicit yours</a>
+</div>
 
 <p>Ready to accelerate your journey?</p>
 
@@ -38,6 +41,13 @@
         <img src="images/In-White-21.png" alt="LinkedIn Logo"> </a>
 
 <a href="mailto:aimpactfuleader@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
-
 </h3>
+</div>
+
+<h3>Provocations for the Bold</h3>
+<div class="provocations-list">
+    <a href="https://x.com/AImpactfuLeader/status/1803170366229192803">Culture is Mindset</a>
+    <a href="https://x.com/AImpactfuLeader/status/1796024405778440267">What Should "I" Do?</a>
+    <a href="https://x.com/AImpactfuLeader/status/1802105686270284200">CEOs - Drop DEI Baggage</a>
+    <a href="https://x.com/AImpactfuLeader/status/1795570111782490286">Engineers - Skip Management, Become Entrepreneurs</a>
 </div>

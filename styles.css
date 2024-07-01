@@ -222,6 +222,29 @@ h3 a:last-child {
     margin: 0 auto; /* Center the container */
 }
 
+.provocations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Adjust this value to increase/decrease space between links */
+  }
+  
+  .provocations-list a {
+    color: #3ABFEF; /* Use the blue color from your image */
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.4;
+    transition: opacity 0.3s ease;
+  }
+  
+  .provocations-list a:hover {
+    opacity: 0.8; /* Subtle hover effect */
+  }
+  
+  h3 {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
 /* Footer Styles */
 .footer {
     text-align: center;
