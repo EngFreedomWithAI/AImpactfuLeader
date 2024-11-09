@@ -19,7 +19,6 @@
     <li><strong>Method</strong>: Unique for you</li>
     </ul>
     <p>From startup to scale-up, I'm here to <strong>accelerate YOUR journey.</strong></p>
-    <a href="booksession.html" class="btn btn-primary">Book Your Free Session</a>
 
 
 <div class="social-links"> 
