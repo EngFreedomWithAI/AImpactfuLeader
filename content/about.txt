@@ -31,8 +31,6 @@
 
 <p>Ready to accelerate your journey?</p>
 
-<a href="booksession.html" class="btn btn-primary">Book Your Free Session</a>
-
 <div class="social-links"> 
 <h3>Get in Touch 
 <a href="https://x.com/AImpactfuLeader" target="_blank">
